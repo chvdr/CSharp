@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\inchesToCentimeters\inchesToCentimeters\bin\Release\inchesToCentimeters.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\inchesToCentimeters\inchesToCentimeters\bin\Release\inchesToCentimeters.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\inchesToCentimeters\inchesToCentimeters\obj\x86\Release\inchesToCentimeters.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\inchesToCentimeters\inchesToCentimeters\obj\x86\Release\inchesToCentimeters.pdb
