@@ -1,5 +1,0 @@
-C:\Users\Chavdar\AppData\Local\Temporary Projects\HelloWorld\bin\Release\HelloWorld.exe
-C:\Users\Chavdar\AppData\Local\Temporary Projects\HelloWorld\bin\Release\HelloWorld.pdb
-C:\Users\Chavdar\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Release\HelloWorld.exe
-C:\Users\Chavdar\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Release\HelloWorld.pdb
-C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\HelloWorld\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.exe
