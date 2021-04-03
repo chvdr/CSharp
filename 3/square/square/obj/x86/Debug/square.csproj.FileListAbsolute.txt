@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\square\square\bin\Debug\square.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\square\square\bin\Debug\square.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\square\square\obj\x86\Debug\square.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\square\square\obj\x86\Debug\square.pdb

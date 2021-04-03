@@ -1,0 +1,8 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\square\bin\Release\square.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\square\bin\Release\square.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\square\obj\x86\Release\square.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\square\obj\x86\Release\square.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\square\square\obj\x86\Release\square.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\square\square\obj\x86\Release\square.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\square\square\bin\Release\square.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\square\square\bin\Release\square.pdb
