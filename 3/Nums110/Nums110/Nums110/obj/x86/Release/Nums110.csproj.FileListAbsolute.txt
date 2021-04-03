@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\Nums110\Nums110\Nums110\bin\Release\Nums110.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\Nums110\Nums110\Nums110\bin\Release\Nums110.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\Nums110\Nums110\Nums110\obj\x86\Release\Nums110.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\Nums110\Nums110\Nums110\obj\x86\Release\Nums110.pdb
