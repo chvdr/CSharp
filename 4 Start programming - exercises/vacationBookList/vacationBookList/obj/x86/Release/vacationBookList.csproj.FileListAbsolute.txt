@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\vacationBookList\vacationBookList\bin\Release\vacationBookList.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\vacationBookList\vacationBookList\bin\Release\vacationBookList.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\vacationBookList\vacationBookList\obj\x86\Release\vacationBookList.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\vacationBookList\vacationBookList\obj\x86\Release\vacationBookList.pdb

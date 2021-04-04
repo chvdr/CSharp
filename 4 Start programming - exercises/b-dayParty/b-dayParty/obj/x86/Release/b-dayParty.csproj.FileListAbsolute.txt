@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\b-dayParty\bin\Release\b-dayParty.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\b-dayParty\bin\Release\b-dayParty.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\b-dayParty\obj\x86\Release\b-dayParty.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\b-dayParty\obj\x86\Release\b-dayParty.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\b-dayParty\b-dayParty\obj\x86\Release\b-dayParty.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\b-dayParty\b-dayParty\obj\x86\Release\b-dayParty.pdb
