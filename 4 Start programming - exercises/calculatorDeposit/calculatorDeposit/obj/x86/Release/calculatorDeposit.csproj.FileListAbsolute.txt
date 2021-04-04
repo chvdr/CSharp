@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\calculatorDeposit\bin\Release\calculatorDeposit.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\calculatorDeposit\bin\Release\calculatorDeposit.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\calculatorDeposit\obj\x86\Release\calculatorDeposit.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\calculatorDeposit\obj\x86\Release\calculatorDeposit.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\calculatorDeposit\calculatorDeposit\obj\x86\Release\calculatorDeposit.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\calculatorDeposit\calculatorDeposit\obj\x86\Release\calculatorDeposit.pdb
