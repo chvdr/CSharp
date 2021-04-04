@@ -1,0 +1,4 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\yardGreening\bin\Debug\yardGreening.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\yardGreening\bin\Debug\yardGreening.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\yardGreening\obj\x86\Debug\yardGreening.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\yardGreening\obj\x86\Debug\yardGreening.pdb
