@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\converterRADtoDEG\bin\Release\converterRADtoDEG.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\converterRADtoDEG\bin\Release\converterRADtoDEG.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\converterRADtoDEG\obj\x86\Release\converterRADtoDEG.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\converterRADtoDEG\obj\x86\Release\converterRADtoDEG.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\converterRADtoDEG\converterRADtoDEG\obj\x86\Release\converterRADtoDEG.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\converterRADtoDEG\converterRADtoDEG\obj\x86\Release\converterRADtoDEG.pdb
