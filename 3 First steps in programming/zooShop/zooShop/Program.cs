@@ -14,7 +14,7 @@ namespace zooShop
             
             double sum = dogs * 2.5 + others * 4.0;
             
-            Console.WriteLine(sum + "lv.");
+            Console.WriteLine(sum + " lv.");
         }
     }
 }

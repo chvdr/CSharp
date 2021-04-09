@@ -4,3 +4,5 @@ C:\Users\Chavdar\AppData\Local\Temporary Projects\yardGreening\obj\x86\Release\y
 C:\Users\Chavdar\AppData\Local\Temporary Projects\yardGreening\obj\x86\Release\yardGreening.pdb
 C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\yardGreening\yardGreening\obj\x86\Release\yardGreening.exe
 C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\yardGreening\yardGreening\obj\x86\Release\yardGreening.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\yardGreening\yardGreening\bin\Release\yardGreening.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\yardGreening\yardGreening\bin\Release\yardGreening.pdb

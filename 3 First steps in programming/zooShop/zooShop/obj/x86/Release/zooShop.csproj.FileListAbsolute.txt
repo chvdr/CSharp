@@ -2,3 +2,4 @@ C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\zooShop\zooSho
 C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\zooShop\zooShop\bin\Release\zooShop.pdb
 C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\zooShop\zooShop\obj\x86\Release\zooShop.exe
 C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\zooShop\zooShop\obj\x86\Release\zooShop.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\zooShop\zooShop\obj\x86\Release\zooShop.csprojResolveAssemblyReference.cache
