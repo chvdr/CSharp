@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\fruitMarket\fruitMarket\bin\Release\fruitMarket.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\fruitMarket\fruitMarket\bin\Release\fruitMarket.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\fruitMarket\fruitMarket\obj\x86\Release\fruitMarket.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\fruitMarket\fruitMarket\obj\x86\Release\fruitMarket.pdb

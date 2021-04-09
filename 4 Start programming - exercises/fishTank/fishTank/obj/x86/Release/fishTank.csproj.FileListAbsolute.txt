@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\fishTank\fishTank\bin\Release\fishTank.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\fishTank\fishTank\bin\Release\fishTank.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\fishTank\fishTank\obj\x86\Release\fishTank.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\fishTank\fishTank\obj\x86\Release\fishTank.pdb
