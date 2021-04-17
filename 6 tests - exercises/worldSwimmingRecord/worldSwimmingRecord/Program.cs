@@ -37,9 +37,9 @@ namespace worldSwimmingRecord
 
             double waterResistance = Math.Floor((distance / 15) * 12.5);
             double totalTime = waterResistance + distance * time;
-            Console.Write("distance * time = "); Console.WriteLine(distance * time);
-            Console.Write("waterResistance = "); Console.WriteLine("{0:f2}", waterResistance); 
-            Console.Write("waterResistance + distance * time = "); Console.WriteLine(totalTime); 
+            // Console.Write("distance * time = "); Console.WriteLine(distance * time);
+            // Console.Write("waterResistance = "); Console.WriteLine("{0:f2}", waterResistance); 
+            // Console.Write("waterResistance + distance * time = "); Console.WriteLine(totalTime); 
             if (totalTime < worldRecord)
             {
                 Console.Write("Yes, he succeeded! The new world record is "); Console.Write("{0:f2}", totalTime); Console.WriteLine(" seconds.");
