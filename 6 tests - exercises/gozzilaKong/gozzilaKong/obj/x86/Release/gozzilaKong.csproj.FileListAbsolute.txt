@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\gozzilaKong\gozzilaKong\bin\Release\gozzilaKong.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\gozzilaKong\gozzilaKong\bin\Release\gozzilaKong.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\gozzilaKong\gozzilaKong\obj\x86\Release\gozzilaKong.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\gozzilaKong\gozzilaKong\obj\x86\Release\gozzilaKong.pdb

@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\timePlus15minutes\bin\Release\timePlus15minutes.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\timePlus15minutes\bin\Release\timePlus15minutes.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\timePlus15minutes\obj\x86\Release\timePlus15minutes.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\timePlus15minutes\obj\x86\Release\timePlus15minutes.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\timePlus15minutes\timePlus15minutes\obj\x86\Release\timePlus15minutes.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\timePlus15minutes\timePlus15minutes\obj\x86\Release\timePlus15minutes.pdb

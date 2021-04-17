@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\worldSwimmingRecord\worldSwimmingRecord\bin\Release\worldSwimmingRecord.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\worldSwimmingRecord\worldSwimmingRecord\bin\Release\worldSwimmingRecord.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\worldSwimmingRecord\worldSwimmingRecord\obj\x86\Release\worldSwimmingRecord.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\worldSwimmingRecord\worldSwimmingRecord\obj\x86\Release\worldSwimmingRecord.pdb

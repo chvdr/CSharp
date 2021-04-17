@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\metricConverter\bin\Release\metricConverter.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\metricConverter\bin\Release\metricConverter.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\metricConverter\obj\x86\Release\metricConverter.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\metricConverter\obj\x86\Release\metricConverter.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\metricConverter\metricConverter\obj\x86\Release\metricConverter.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\metricConverter\metricConverter\obj\x86\Release\metricConverter.pdb

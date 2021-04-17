@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\bonusScore\bin\Release\bonusScore.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\bonusScore\bin\Release\bonusScore.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\bonusScore\obj\x86\Release\bonusScore.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\bonusScore\obj\x86\Release\bonusScore.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\bonusScore\bonusScore\obj\x86\Release\bonusScore.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\bonusScore\bonusScore\obj\x86\Release\bonusScore.pdb

@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\speedInfo\bin\Release\speedInfo.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\speedInfo\bin\Release\speedInfo.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\speedInfo\obj\x86\Release\speedInfo.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\speedInfo\obj\x86\Release\speedInfo.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\speedInfo\speedInfo\obj\x86\Release\speedInfo.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\6 tests - exercises\speedInfo\speedInfo\obj\x86\Release\speedInfo.pdb
