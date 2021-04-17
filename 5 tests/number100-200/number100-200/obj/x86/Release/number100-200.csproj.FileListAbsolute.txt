@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\number100-200\number100-200\bin\Release\number100-200.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\number100-200\number100-200\bin\Release\number100-200.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\number100-200\number100-200\obj\x86\Release\number100-200.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\number100-200\number100-200\obj\x86\Release\number100-200.pdb

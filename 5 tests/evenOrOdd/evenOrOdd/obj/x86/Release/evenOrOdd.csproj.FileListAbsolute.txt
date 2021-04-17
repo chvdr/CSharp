@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\evenOrOdd\evenOrOdd\bin\Release\evenOrOdd.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\evenOrOdd\evenOrOdd\bin\Release\evenOrOdd.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\evenOrOdd\evenOrOdd\obj\x86\Release\evenOrOdd.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\evenOrOdd\evenOrOdd\obj\x86\Release\evenOrOdd.pdb

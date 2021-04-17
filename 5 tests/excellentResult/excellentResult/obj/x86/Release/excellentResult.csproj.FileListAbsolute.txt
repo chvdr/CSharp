@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\excellentResult\excellentResult\bin\Release\excellentResult.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\excellentResult\excellentResult\bin\Release\excellentResult.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\excellentResult\excellentResult\obj\x86\Release\excellentResult.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\excellentResult\excellentResult\obj\x86\Release\excellentResult.pdb

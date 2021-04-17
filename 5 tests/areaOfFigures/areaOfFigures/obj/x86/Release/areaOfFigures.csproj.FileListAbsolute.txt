@@ -1,0 +1,8 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\areaOfFigures\bin\Release\areaOfFigures.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\areaOfFigures\bin\Release\areaOfFigures.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\areaOfFigures\obj\x86\Release\areaOfFigures.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\areaOfFigures\obj\x86\Release\areaOfFigures.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\areaOfFigures\areaOfFigures\obj\x86\Release\areaOfFigures.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\areaOfFigures\areaOfFigures\obj\x86\Release\areaOfFigures.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\areaOfFigures\areaOfFigures\bin\Release\areaOfFigures.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\areaOfFigures\areaOfFigures\bin\Release\areaOfFigures.pdb

@@ -1,0 +1,8 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\greaterNumber\bin\Release\greaterNumber.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\greaterNumber\bin\Release\greaterNumber.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\greaterNumber\obj\x86\Release\greaterNumber.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\greaterNumber\obj\x86\Release\greaterNumber.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\greaterNumber\greaterNumber\obj\x86\Release\greaterNumber.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\greaterNumber\greaterNumber\obj\x86\Release\greaterNumber.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\greaterNumber\greaterNumber\bin\Release\greaterNumber.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\greaterNumber\greaterNumber\bin\Release\greaterNumber.pdb

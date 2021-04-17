@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\toyShop\toyShop\bin\Release\toyShop.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\toyShop\toyShop\bin\Release\toyShop.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\toyShop\toyShop\obj\x86\Release\toyShop.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\5 tests\toyShop\toyShop\obj\x86\Release\toyShop.pdb

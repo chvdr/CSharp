@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\excellentResult\greaterNumber\bin\Debug\greaterNumber.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\excellentResult\greaterNumber\bin\Debug\greaterNumber.pdb
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\excellentResult\greaterNumber\obj\x86\Debug\greaterNumber.exe
+C:\Users\Chavdar\Documents\Visual Studio 2010\Projects\CSharpDary\excellentResult\greaterNumber\obj\x86\Debug\greaterNumber.pdb
