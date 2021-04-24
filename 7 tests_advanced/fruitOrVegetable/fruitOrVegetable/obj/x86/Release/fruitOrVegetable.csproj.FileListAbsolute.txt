@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\fruitOrVegetable\bin\Release\fruitOrVegetable.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\fruitOrVegetable\bin\Release\fruitOrVegetable.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\fruitOrVegetable\obj\x86\Release\fruitOrVegetable.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\fruitOrVegetable\obj\x86\Release\fruitOrVegetable.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\fruitOrVegetable\fruitOrVegetable\obj\x86\Release\fruitOrVegetable.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\fruitOrVegetable\fruitOrVegetable\obj\x86\Release\fruitOrVegetable.pdb

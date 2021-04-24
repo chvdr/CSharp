@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\personalTitles\personalTitles\bin\Release\personalTitles.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\personalTitles\personalTitles\bin\Release\personalTitles.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\personalTitles\personalTitles\obj\x86\Release\personalTitles.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\personalTitles\personalTitles\obj\x86\Release\personalTitles.pdb

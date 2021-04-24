@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\workingHours\workingHours\bin\Release\workingHours.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\workingHours\workingHours\bin\Release\workingHours.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\workingHours\workingHours\obj\x86\Release\workingHours.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\workingHours\workingHours\obj\x86\Release\workingHours.pdb

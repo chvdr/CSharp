@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\numberInRange\numberInRange\bin\Release\numberInRange.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\numberInRange\numberInRange\bin\Release\numberInRange.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\numberInRange\numberInRange\obj\x86\Release\numberInRange.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\numberInRange\numberInRange\obj\x86\Release\numberInRange.pdb

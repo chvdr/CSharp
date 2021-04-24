@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\cinemaTicket\bin\Release\cinemaTicket.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\cinemaTicket\bin\Release\cinemaTicket.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\cinemaTicket\obj\x86\Release\cinemaTicket.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\cinemaTicket\obj\x86\Release\cinemaTicket.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\cinemaTicket\cinemaTicket\obj\x86\Release\cinemaTicket.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\cinemaTicket\cinemaTicket\obj\x86\Release\cinemaTicket.pdb

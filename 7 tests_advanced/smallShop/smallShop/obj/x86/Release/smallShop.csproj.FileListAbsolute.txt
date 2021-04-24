@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\smallShop\bin\Release\smallShop.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\smallShop\bin\Release\smallShop.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\smallShop\obj\x86\Release\smallShop.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\smallShop\obj\x86\Release\smallShop.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\smallShop\smallShop\obj\x86\Release\smallShop.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\smallShop\smallShop\obj\x86\Release\smallShop.pdb
