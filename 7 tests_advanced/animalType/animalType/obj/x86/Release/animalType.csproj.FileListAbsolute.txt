@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\animalType\bin\Release\animalType.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\animalType\bin\Release\animalType.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\animalType\obj\x86\Release\animalType.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\animalType\obj\x86\Release\animalType.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\animalType\animalType\obj\x86\Release\animalType.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\animalType\animalType\obj\x86\Release\animalType.pdb

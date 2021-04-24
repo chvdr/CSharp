@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\dayOfWeek\dayOfWeek\bin\Release\dayOfWeek.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\dayOfWeek\dayOfWeek\bin\Release\dayOfWeek.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\dayOfWeek\dayOfWeek\obj\x86\Release\dayOfWeek.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\dayOfWeek\dayOfWeek\obj\x86\Release\dayOfWeek.pdb

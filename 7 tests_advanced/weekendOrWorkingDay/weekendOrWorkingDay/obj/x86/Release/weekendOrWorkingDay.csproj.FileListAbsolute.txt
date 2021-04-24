@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\weekendOrWorkingDay\weekendOrWorkingDay\bin\Release\weekendOrWorkingDay.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\weekendOrWorkingDay\weekendOrWorkingDay\bin\Release\weekendOrWorkingDay.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\weekendOrWorkingDay\weekendOrWorkingDay\obj\x86\Release\weekendOrWorkingDay.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\weekendOrWorkingDay\weekendOrWorkingDay\obj\x86\Release\weekendOrWorkingDay.pdb
