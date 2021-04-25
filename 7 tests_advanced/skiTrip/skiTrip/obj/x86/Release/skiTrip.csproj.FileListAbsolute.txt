@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\skiTrip\skiTrip\bin\Release\skiTrip.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\skiTrip\skiTrip\bin\Release\skiTrip.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\skiTrip\skiTrip\obj\x86\Release\skiTrip.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\skiTrip\skiTrip\obj\x86\Release\skiTrip.pdb
