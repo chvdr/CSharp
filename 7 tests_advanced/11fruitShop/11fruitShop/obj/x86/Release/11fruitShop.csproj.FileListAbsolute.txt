@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\11fruitShop\11fruitShop\bin\Release\11fruitShop.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\11fruitShop\11fruitShop\bin\Release\11fruitShop.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\11fruitShop\11fruitShop\obj\x86\Release\11fruitShop.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\11fruitShop\11fruitShop\obj\x86\Release\11fruitShop.pdb
