@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\invalidNumber\invalidNumber\bin\Release\invalidNumber.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\invalidNumber\invalidNumber\bin\Release\invalidNumber.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\invalidNumber\invalidNumber\obj\x86\Release\invalidNumber.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\invalidNumber\invalidNumber\obj\x86\Release\invalidNumber.pdb
