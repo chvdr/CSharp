@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\8 test advanced - exercises\1_cinema\1_cinema\bin\Release\1_cinema.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\8 test advanced - exercises\1_cinema\1_cinema\bin\Release\1_cinema.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\8 test advanced - exercises\1_cinema\1_cinema\obj\x86\Release\1_cinema.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\8 test advanced - exercises\1_cinema\1_cinema\obj\x86\Release\1_cinema.pdb
