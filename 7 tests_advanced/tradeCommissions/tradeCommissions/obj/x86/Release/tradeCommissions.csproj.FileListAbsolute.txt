@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\tradeCommissions\tradeCommissions\bin\Release\tradeCommissions.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\tradeCommissions\tradeCommissions\bin\Release\tradeCommissions.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\tradeCommissions\tradeCommissions\obj\x86\Release\tradeCommissions.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\7 tests_advanced\tradeCommissions\tradeCommissions\obj\x86\Release\tradeCommissions.pdb
