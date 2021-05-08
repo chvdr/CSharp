@@ -1,0 +1,8 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\leftRightSUM_Task9\bin\Release\leftRightSUM_Task9.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\leftRightSUM_Task9\bin\Release\leftRightSUM_Task9.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\leftRightSUM_Task9\obj\x86\Release\leftRightSUM_Task9.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\leftRightSUM_Task9\obj\x86\Release\leftRightSUM_Task9.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\leftRightSUM_Task9\leftRightSUM_Task9\obj\x86\Release\leftRightSUM_Task9.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\leftRightSUM_Task9\leftRightSUM_Task9\obj\x86\Release\leftRightSUM_Task9.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\leftRightSUM_Task9\leftRightSUM_Task9\bin\Release\leftRightSUM_Task9.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\leftRightSUM_Task9\leftRightSUM_Task9\bin\Release\leftRightSUM_Task9.pdb

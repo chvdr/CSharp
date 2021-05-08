@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\numberSequence_task8\numberSequence_task8\bin\Release\numberSequence_task8.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\numberSequence_task8\numberSequence_task8\bin\Release\numberSequence_task8.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\numberSequence_task8\numberSequence_task8\obj\x86\Release\numberSequence_task8.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\numberSequence_task8\numberSequence_task8\obj\x86\Release\numberSequence_task8.pdb

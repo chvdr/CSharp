@@ -1,0 +1,8 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\sumNumbers_for_task07\bin\Release\sumNumbers_for_task07.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\sumNumbers_for_task07\bin\Release\sumNumbers_for_task07.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\sumNumbers_for_task07\obj\x86\Release\sumNumbers_for_task07.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\sumNumbers_for_task07\obj\x86\Release\sumNumbers_for_task07.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\sumNumbers_for_task07\sumNumbers_for_task07\obj\x86\Release\sumNumbers_for_task07.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\sumNumbers_for_task07\sumNumbers_for_task07\obj\x86\Release\sumNumbers_for_task07.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\sumNumbers_for_task07\sumNumbers_for_task07\bin\Release\sumNumbers_for_task07.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\sumNumbers_for_task07\sumNumbers_for_task07\bin\Release\sumNumbers_for_task07.pdb

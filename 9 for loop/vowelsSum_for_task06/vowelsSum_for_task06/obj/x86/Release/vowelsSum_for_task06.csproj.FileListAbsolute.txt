@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\vowelsSum_for_task06\bin\Release\vowelsSum_for_task06.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\vowelsSum_for_task06\bin\Release\vowelsSum_for_task06.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\vowelsSum_for_task06\obj\x86\Release\vowelsSum_for_task06.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\vowelsSum_for_task06\obj\x86\Release\vowelsSum_for_task06.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\vowelsSum_for_task06\vowelsSum_for_task06\obj\x86\Release\vowelsSum_for_task06.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\vowelsSum_for_task06\vowelsSum_for_task06\obj\x86\Release\vowelsSum_for_task06.pdb

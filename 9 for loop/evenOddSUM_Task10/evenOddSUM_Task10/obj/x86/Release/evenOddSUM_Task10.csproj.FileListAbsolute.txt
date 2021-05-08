@@ -1,0 +1,8 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\evenOddSUM_Task10\bin\Release\evenOddSUM_Task10.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\evenOddSUM_Task10\bin\Release\evenOddSUM_Task10.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\evenOddSUM_Task10\obj\x86\Release\evenOddSUM_Task10.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\evenOddSUM_Task10\obj\x86\Release\evenOddSUM_Task10.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\evenOddSUM_Task10\evenOddSUM_Task10\obj\x86\Release\evenOddSUM_Task10.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\evenOddSUM_Task10\evenOddSUM_Task10\obj\x86\Release\evenOddSUM_Task10.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\evenOddSUM_Task10\evenOddSUM_Task10\bin\Release\evenOddSUM_Task10.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\evenOddSUM_Task10\evenOddSUM_Task10\bin\Release\evenOddSUM_Task10.pdb

@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\evenPowersOf2_for_task04\evenPowersOf2_for_task04\bin\Release\evenPowersOf2_for_task04.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\evenPowersOf2_for_task04\evenPowersOf2_for_task04\bin\Release\evenPowersOf2_for_task04.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\evenPowersOf2_for_task04\evenPowersOf2_for_task04\obj\x86\Release\evenPowersOf2_for_task04.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\evenPowersOf2_for_task04\evenPowersOf2_for_task04\obj\x86\Release\evenPowersOf2_for_task04.pdb

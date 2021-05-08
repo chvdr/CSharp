@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\numbers1ToN_step3_for_task3\bin\Release\numbers1ToN_step3_for_task3.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\numbers1ToN_step3_for_task3\bin\Release\numbers1ToN_step3_for_task3.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\numbers1ToN_step3_for_task3\obj\x86\Release\numbers1ToN_step3_for_task3.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\numbers1ToN_step3_for_task3\obj\x86\Release\numbers1ToN_step3_for_task3.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\numbers1ToN_step3_for_task3\numbers1ToN_step3_for_task3\obj\x86\Release\numbers1ToN_step3_for_task3.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\numbers1ToN_step3_for_task3\numbers1ToN_step3_for_task3\obj\x86\Release\numbers1ToN_step3_for_task3.pdb

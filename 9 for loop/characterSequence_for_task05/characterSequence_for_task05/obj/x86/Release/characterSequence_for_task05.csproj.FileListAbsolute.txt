@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\characterSequence_for_task05\characterSequence_for_task05\bin\Release\characterSequence_for_task05.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\characterSequence_for_task05\characterSequence_for_task05\bin\Release\characterSequence_for_task05.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\characterSequence_for_task05\characterSequence_for_task05\obj\x86\Release\characterSequence_for_task05.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\characterSequence_for_task05\characterSequence_for_task05\obj\x86\Release\characterSequence_for_task05.pdb

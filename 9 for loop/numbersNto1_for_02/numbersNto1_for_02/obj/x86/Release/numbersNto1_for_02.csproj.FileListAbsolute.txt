@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\numbersNto1_for_02\numbersNto1_for_02\bin\Release\numbersNto1_for_02.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\numbersNto1_for_02\numbersNto1_for_02\bin\Release\numbersNto1_for_02.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\numbersNto1_for_02\numbersNto1_for_02\obj\x86\Release\numbersNto1_for_02.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\numbersNto1_for_02\numbersNto1_for_02\obj\x86\Release\numbersNto1_for_02.pdb
