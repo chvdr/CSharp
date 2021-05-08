@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\cleverLilly_Task11_exam\bin\Release\cleverLilly_Task11_exam.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\cleverLilly_Task11_exam\bin\Release\cleverLilly_Task11_exam.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\cleverLilly_Task11_exam\obj\x86\Release\cleverLilly_Task11_exam.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\cleverLilly_Task11_exam\obj\x86\Release\cleverLilly_Task11_exam.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\cleverLilly_Task11_exam\cleverLilly_Task11_exam\obj\x86\Release\cleverLilly_Task11_exam.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\9 for loop\cleverLilly_Task11_exam\cleverLilly_Task11_exam\obj\x86\Release\cleverLilly_Task11_exam.pdb

@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\histogram_task4\histogram_task4\bin\Release\histogram_task4.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\histogram_task4\histogram_task4\bin\Release\histogram_task4.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\histogram_task4\histogram_task4\obj\x86\Release\histogram_task4.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\histogram_task4\histogram_task4\obj\x86\Release\histogram_task4.pdb

@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\numbersEndingIn7_task1\numbersEndingIn7_task1\bin\Release\numbersEndingIn7_task1.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\numbersEndingIn7_task1\numbersEndingIn7_task1\bin\Release\numbersEndingIn7_task1.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\numbersEndingIn7_task1\numbersEndingIn7_task1\obj\x86\Release\numbersEndingIn7_task1.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\numbersEndingIn7_task1\numbersEndingIn7_task1\obj\x86\Release\numbersEndingIn7_task1.pdb
