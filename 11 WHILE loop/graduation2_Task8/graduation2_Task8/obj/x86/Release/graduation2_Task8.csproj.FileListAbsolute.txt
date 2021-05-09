@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\graduation2_Task8\graduation2_Task8\bin\Release\graduation2_Task8.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\graduation2_Task8\graduation2_Task8\bin\Release\graduation2_Task8.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\graduation2_Task8\graduation2_Task8\obj\x86\Release\graduation2_Task8.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\graduation2_Task8\graduation2_Task8\obj\x86\Release\graduation2_Task8.pdb

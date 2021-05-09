@@ -9,6 +9,14 @@ namespace readText_Task01
     {
         static void Main(string[] args)
         {
+            while (true)
+            {
+            	string name = Console.ReadLine();
+            	if (name == "Stop") { break; }; 
+            	
+            	// write to output 
+            	Console.WriteLine(name); 
+            }
         }
     }
 }

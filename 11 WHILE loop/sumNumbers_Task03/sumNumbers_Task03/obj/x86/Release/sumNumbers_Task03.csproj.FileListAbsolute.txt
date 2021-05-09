@@ -1,0 +1,6 @@
+C:\Users\Chavdar\AppData\Local\Temporary Projects\sumNumbers_Task03\bin\Release\sumNumbers_Task03.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\sumNumbers_Task03\bin\Release\sumNumbers_Task03.pdb
+C:\Users\Chavdar\AppData\Local\Temporary Projects\sumNumbers_Task03\obj\x86\Release\sumNumbers_Task03.exe
+C:\Users\Chavdar\AppData\Local\Temporary Projects\sumNumbers_Task03\obj\x86\Release\sumNumbers_Task03.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\sumNumbers_Task03\sumNumbers_Task03\obj\x86\Release\sumNumbers_Task03.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\sumNumbers_Task03\sumNumbers_Task03\obj\x86\Release\sumNumbers_Task03.pdb

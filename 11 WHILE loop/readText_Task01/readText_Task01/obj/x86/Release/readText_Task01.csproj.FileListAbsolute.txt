@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\readText_Task01\readText_Task01\bin\Release\readText_Task01.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\readText_Task01\readText_Task01\bin\Release\readText_Task01.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\readText_Task01\readText_Task01\obj\x86\Release\readText_Task01.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\readText_Task01\readText_Task01\obj\x86\Release\readText_Task01.pdb
