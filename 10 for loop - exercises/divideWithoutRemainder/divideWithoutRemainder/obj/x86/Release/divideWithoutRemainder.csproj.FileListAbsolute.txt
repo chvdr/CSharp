@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\divideWithoutRemainder\divideWithoutRemainder\bin\Release\divideWithoutRemainder.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\divideWithoutRemainder\divideWithoutRemainder\bin\Release\divideWithoutRemainder.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\divideWithoutRemainder\divideWithoutRemainder\obj\x86\Release\divideWithoutRemainder.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\10 for loop - exercises\divideWithoutRemainder\divideWithoutRemainder\obj\x86\Release\divideWithoutRemainder.pdb
