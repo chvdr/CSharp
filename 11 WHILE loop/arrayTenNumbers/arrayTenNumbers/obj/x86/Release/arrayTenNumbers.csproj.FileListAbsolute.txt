@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\arrayTenNumbers\arrayTenNumbers\bin\Release\arrayTenNumbers.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\arrayTenNumbers\arrayTenNumbers\bin\Release\arrayTenNumbers.pdb
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\arrayTenNumbers\arrayTenNumbers\obj\x86\Release\arrayTenNumbers.exe
+C:\Users\Chavdar\Desktop\SoftUniC#\CSharp\11 WHILE loop\arrayTenNumbers\arrayTenNumbers\obj\x86\Release\arrayTenNumbers.pdb
