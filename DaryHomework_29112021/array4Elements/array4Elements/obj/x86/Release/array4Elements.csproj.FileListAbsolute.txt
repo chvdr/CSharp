@@ -1,0 +1,4 @@
+C:\Users\Chavdar\Desktop\cSharp_tubes_02102021\array4elements\CSharp\DaryHomework_29112021\array4Elements\array4Elements\bin\Release\array4Elements.exe
+C:\Users\Chavdar\Desktop\cSharp_tubes_02102021\array4elements\CSharp\DaryHomework_29112021\array4Elements\array4Elements\bin\Release\array4Elements.pdb
+C:\Users\Chavdar\Desktop\cSharp_tubes_02102021\array4elements\CSharp\DaryHomework_29112021\array4Elements\array4Elements\obj\x86\Release\array4Elements.exe
+C:\Users\Chavdar\Desktop\cSharp_tubes_02102021\array4elements\CSharp\DaryHomework_29112021\array4Elements\array4Elements\obj\x86\Release\array4Elements.pdb
