@@ -24,11 +24,14 @@ namespace arrayFourNumbers
 {
     class Program
     {
+            int n = 4; 				// how long/powerful will be our Arrays. Uses as a Constant
+            int[] a = new int[n];	// 1st array 
+			int[] b = new int[n];	// 2nd array 
 		// [1]. Присвояване на случайни числа на елементите на едномерен масив (генериране на масив)
 		static void generateArray (int[] arr) {
 			Random rnd = new Random();
-			local int i;
-			for (i = 1; i < n; i++) {
+			// local int i;
+			for (int i = 1; i < n; i++) {
 				arr[i] = rnd.Next(2, 200);
 			}
 		}
@@ -42,7 +45,7 @@ namespace arrayFourNumbers
 		
 		// [3]. Намиране сумата на нечетните елементи в едномерен масив
 		static int SumEven (int[] arr) {
-			local int SUM=0; 
+			int SUM=0; 
 			for (int i = 0; i < n; i++) {
 				if (arr[i]%2 != 0){ 
 					SUM += arr[i]; 
@@ -52,14 +55,18 @@ namespace arrayFourNumbers
 		}
 		
 		// [4]. Намиране на най-малката стойност в едномерен масив
-		static int min(int[] arr){
-			local int MINIMUM = arr[0]; 
-			for (int i = 0; i < n; i++) {
-				if (arr[i] < MINIMUM){ 
-					MINIMUM = arr[i]; 
-				}
-			return MINIMUM; 
-		}
+        static int min(int[] arr)
+        {
+            int MINIMUM = arr[0];
+            for (int i = 0; i < n; i++)
+            {
+                if (arr[i] < MINIMUM)
+                {
+                    MINIMUM = arr[i];
+                }
+                return MINIMUM;
+            } // static int min (int[] arr) {
+        }
 	
 /*		
 		 #     #          #          ###       #     #    
@@ -72,10 +79,6 @@ namespace arrayFourNumbers
 */                                                  
         static void Main(string[] args)
         {
-            int n = 4; 				// how long/powerful will be our Arrays. Uses as a Constant
-            int[] a = new int[n];	// 1st array 
-			int[] b = new int[n];	// 2nd array 
-			
 			// (1). създава  два едномерни масива с по n-елемента и им присвоява  случайни числа в интервала [2;200]. 
 			// statis void generateArray () is in use to generate arrays 'a' and 'b':
             generateArray (a);
